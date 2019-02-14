@@ -6,8 +6,18 @@
     <description>Recent content in Academic on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>1st post</title>
+      <link>/post/1st-post/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/1st-post/</guid>
+      <description>&lt;p&gt;Hello, this is my first post in my webblog&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
