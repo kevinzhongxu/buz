@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacquet et al., 2017 on Academic</title>
+    <link>/authors/jacquet-et-al.-2017/</link>
+    <description>Recent content in Jacquet et al., 2017 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/jacquet-et-al.-2017/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Methods and Technologies to Assess Viral Interactions in the Aquatic World</title>
+      <link>/publication/book_vom_method/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/book_vom_method/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Virus Interactions in the Aquatic World</title>
+      <link>/publication/book_vom_interaction/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/book_vom_interaction/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

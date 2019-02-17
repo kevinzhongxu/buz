@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parvathi et al. 2012 on Academic</title>
+    <link>/authors/parvathi-et-al.-2012/</link>
+    <description>Recent content in Parvathi et al. 2012 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Nov 2012 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/parvathi-et-al.-2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamics of various viral groups infecting autotrophic plankton in Lake Geneva</title>
+      <link>/publication/parvathi_2012_alo/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/parvathi_2012_alo/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

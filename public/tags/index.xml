@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Demo</title>
       <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
@@ -48,11 +39,56 @@
     </item>
     
     <item>
+      <title>algae viruses</title>
+      <link>/tags/algae-viruses/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/algae-viruses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aquatic viruses</title>
+      <link>/tags/aquatic-viruses/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/aquatic-viruses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cyanophages</title>
+      <link>/tags/cyanophages/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/cyanophages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>demo</title>
       <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0700</pubDate>
       
       <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freshwater</title>
+      <link>/tags/freshwater/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/freshwater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>marine</title>
+      <link>/tags/marine/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/marine/</guid>
       <description></description>
     </item>
     
@@ -71,6 +107,24 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>viroplankton</title>
+      <link>/tags/viroplankton/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/viroplankton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virus-host interaction</title>
+      <link>/tags/virus-host-interaction/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/tags/virus-host-interaction/</guid>
       <description></description>
     </item>
     

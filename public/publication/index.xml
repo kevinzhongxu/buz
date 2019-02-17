@@ -6,26 +6,125 @@
     <description>Recent content in Publications on Academic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>/publication/person-re-id/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
+      <title>A New Freshwater Cyanosiphovirus Harboring Integrase</title>
+      <link>/publication/cyanosiphovirus_fim_2018/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>/publication/person-re-id/</guid>
+      <guid>/publication/cyanosiphovirus_fim_2018/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 -0700</pubDate>
+      <title>Methods and Technologies to Assess Viral Interactions in the Aquatic World</title>
+      <link>/publication/book_vom_method/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
       
-      <guid>/publication/clothing-search/</guid>
+      <guid>/publication/book_vom_method/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Virus Interactions in the Aquatic World</title>
+      <link>/publication/book_vom_interaction/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/book_vom_interaction/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Structure and diversity of ssDNA Microviridae viruses in two peri-alpine lakes (Annecy and Bourget, France)</title>
+      <link>/publication/ssdna_rim_2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/ssdna_rim_2015/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Contrasting diversity of phycodnavirus signature genes in two large and deep western European lakes</title>
+      <link>/publication/algaevirus_em_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/algaevirus_em_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Differing assemblage composition and dynamics in T4‐like myophages of two neighbouring sub‐alpine lakes</title>
+      <link>/publication/t4phage_fb_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/t4phage_fb_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Seasonal variations in PCR-DGGE fingerprinted viruses infecting phytoplankton in large and deep peri-alpine lakes</title>
+      <link>/publication/dgge_er_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/dgge_er_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of auto- and heterotrophic picoplankton and associated viruses in Lake Geneva</title>
+      <link>/publication/parvathi_2014_hess/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/parvathi_2014_hess/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Variations in abundance, genome size, morphology, and functional role of the virioplankton in Lakes Annecy and Bourget over a 1-year period.</title>
+      <link>/publication/viroplankton_me_2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/viroplankton_me_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics and structure of picocyanobacteria and cyanomyoviruses in two large and deep peri-alpine lakes</title>
+      <link>/publication/cyanophage_fems_2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/cyanophage_fems_2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Prevalence of Viral Photosynthetic and Capsid Protein Genes from Cyanophages in Two Large and Deep Perialpine Lakes</title>
+      <link>/publication/cyanophage_aem_2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/cyanophage_aem_2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of various viral groups infecting autotrophic plankton in Lake Geneva</title>
+      <link>/publication/parvathi_2012_alo/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/parvathi_2012_alo/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>First description of a cyanophage infecting the cyanobacterium Arthrospira platensis (Spirulina)</title>
+      <link>/publication/jacquet_2012_jap/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/jacquet_2012_jap/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

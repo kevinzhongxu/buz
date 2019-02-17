@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jacquet et al. 2012 on Academic</title>
+    <link>/authors/jacquet-et-al.-2012/</link>
+    <description>Recent content in Jacquet et al. 2012 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 May 2012 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/jacquet-et-al.-2012/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First description of a cyanophage infecting the cyanobacterium Arthrospira platensis (Spirulina)</title>
+      <link>/publication/jacquet_2012_jap/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/jacquet_2012_jap/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

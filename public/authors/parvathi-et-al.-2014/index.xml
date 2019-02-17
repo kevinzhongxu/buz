@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parvathi et al. 2014 on Academic</title>
+    <link>/authors/parvathi-et-al.-2014/</link>
+    <description>Recent content in Parvathi et al. 2014 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Feb 2014 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/parvathi-et-al.-2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dynamics of auto- and heterotrophic picoplankton and associated viruses in Lake Geneva</title>
+      <link>/publication/parvathi_2014_hess/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/parvathi_2014_hess/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

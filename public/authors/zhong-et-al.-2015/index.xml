@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhong et al. 2015 on Academic</title>
+    <link>/authors/zhong-et-al.-2015/</link>
+    <description>Recent content in Zhong et al. 2015 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/zhong-et-al.-2015/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Structure and diversity of ssDNA Microviridae viruses in two peri-alpine lakes (Annecy and Bourget, France)</title>
+      <link>/publication/ssdna_rim_2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/ssdna_rim_2015/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

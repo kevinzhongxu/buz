@@ -41,8 +41,24 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Aquatic viruses"
+  tag = "aquatic viruses"
+  
+[[filter]]
+  name = "CRISPR related"
+  tag = "CRISPR"
+
+[[filter]]
+  name = "Host-associated microbiomes"
+  tag = "microbiome"
+  
+[[filter]]
+  name = "Zooplankton viruses"
+  tag = "zooplankton viruses"
+
+[[filter]]
+  name = "Future oceans"
+  tag = "oceanography"
 
 [[filter]]
   name = "Other"

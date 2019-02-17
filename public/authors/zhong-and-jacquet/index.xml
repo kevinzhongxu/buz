@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhong and Jacquet on Academic</title>
+    <link>/authors/zhong-and-jacquet/</link>
+    <description>Recent content in Zhong and Jacquet on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2014 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/zhong-and-jacquet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contrasting diversity of phycodnavirus signature genes in two large and deep western European lakes</title>
+      <link>/publication/algaevirus_em_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/algaevirus_em_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Differing assemblage composition and dynamics in T4‐like myophages of two neighbouring sub‐alpine lakes</title>
+      <link>/publication/t4phage_fb_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/t4phage_fb_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Prevalence of Viral Photosynthetic and Capsid Protein Genes from Cyanophages in Two Large and Deep Perialpine Lakes</title>
+      <link>/publication/cyanophage_aem_2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/cyanophage_aem_2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

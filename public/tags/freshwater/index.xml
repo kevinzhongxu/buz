@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>freshwater on Academic</title>
+    <link>/tags/freshwater/</link>
+    <description>Recent content in freshwater on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/freshwater/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD project</title>
+      <link>/project/phd-project/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/phd-project/</guid>
+      <description>This is my PhD project funded by Region Rhône-Alpes during year 2010 - 2013, working in INRA UMR CARRTEL at Thonon-les-bains in France under the supervision of Dr. Stéphan Jacquet. During three and half years, I conducted research to investigate and highlight the diversity, distribution, dynamic, and community structure of phytoplankton viruses and their functional roles in three large and deep European peri-alpine lakes: Lakes Annecy, Bourget and Geneva. This PhD work increased and enriched our knowledge in freshwater viral ecology, and was published as 2 book chapters in Viruses of Microorganisms and 11 articles in peer-reviewed journals: Frontier in Microbiology, Applied Environmental Microbiology, Environmental Microbiology, Microbial Ecology, Freshwater Biology, FEMS Microbiology Ecology, Research in Microbiology, Hydrology and Earth System Sciences, etc.</description>
+    </item>
+    
+    <item>
+      <title>A New Freshwater Cyanosiphovirus Harboring Integrase</title>
+      <link>/publication/cyanosiphovirus_fim_2018/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/cyanosiphovirus_fim_2018/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Methods and Technologies to Assess Viral Interactions in the Aquatic World</title>
+      <link>/publication/book_vom_method/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/book_vom_method/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Virus Interactions in the Aquatic World</title>
+      <link>/publication/book_vom_interaction/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/book_vom_interaction/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Structure and diversity of ssDNA Microviridae viruses in two peri-alpine lakes (Annecy and Bourget, France)</title>
+      <link>/publication/ssdna_rim_2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/ssdna_rim_2015/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Contrasting diversity of phycodnavirus signature genes in two large and deep western European lakes</title>
+      <link>/publication/algaevirus_em_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/algaevirus_em_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Differing assemblage composition and dynamics in T4‐like myophages of two neighbouring sub‐alpine lakes</title>
+      <link>/publication/t4phage_fb_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/t4phage_fb_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Seasonal variations in PCR-DGGE fingerprinted viruses infecting phytoplankton in large and deep peri-alpine lakes</title>
+      <link>/publication/dgge_er_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/dgge_er_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of auto- and heterotrophic picoplankton and associated viruses in Lake Geneva</title>
+      <link>/publication/parvathi_2014_hess/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/parvathi_2014_hess/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Variations in abundance, genome size, morphology, and functional role of the virioplankton in Lakes Annecy and Bourget over a 1-year period.</title>
+      <link>/publication/viroplankton_me_2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/viroplankton_me_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Temporal dynamics and structure of picocyanobacteria and cyanomyoviruses in two large and deep peri-alpine lakes</title>
+      <link>/publication/cyanophage_fems_2013/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/cyanophage_fems_2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Prevalence of Viral Photosynthetic and Capsid Protein Genes from Cyanophages in Two Large and Deep Perialpine Lakes</title>
+      <link>/publication/cyanophage_aem_2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/cyanophage_aem_2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Dynamics of various viral groups infecting autotrophic plankton in Lake Geneva</title>
+      <link>/publication/parvathi_2012_alo/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/parvathi_2012_alo/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

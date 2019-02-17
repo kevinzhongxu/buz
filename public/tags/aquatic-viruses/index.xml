@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aquatic viruses on Academic</title>
+    <link>/tags/aquatic-viruses/</link>
+    <description>Recent content in aquatic viruses on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/aquatic-viruses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD project</title>
+      <link>/project/phd-project/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/phd-project/</guid>
+      <description>This is my PhD project funded by Region Rhône-Alpes during year 2010 - 2013, working in INRA UMR CARRTEL at Thonon-les-bains in France under the supervision of Dr. Stéphan Jacquet. During three and half years, I conducted research to investigate and highlight the diversity, distribution, dynamic, and community structure of phytoplankton viruses and their functional roles in three large and deep European peri-alpine lakes: Lakes Annecy, Bourget and Geneva. This PhD work increased and enriched our knowledge in freshwater viral ecology, and was published as 2 book chapters in Viruses of Microorganisms and 11 articles in peer-reviewed journals: Frontier in Microbiology, Applied Environmental Microbiology, Environmental Microbiology, Microbial Ecology, Freshwater Biology, FEMS Microbiology Ecology, Research in Microbiology, Hydrology and Earth System Sciences, etc.</description>
+    </item>
+    
+    <item>
+      <title>Methods and Technologies to Assess Viral Interactions in the Aquatic World</title>
+      <link>/publication/book_vom_method/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/book_vom_method/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Virus Interactions in the Aquatic World</title>
+      <link>/publication/book_vom_interaction/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/book_vom_interaction/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+    <item>
+      <title>Structure and diversity of ssDNA Microviridae viruses in two peri-alpine lakes (Annecy and Bourget, France)</title>
+      <link>/publication/ssdna_rim_2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/ssdna_rim_2015/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

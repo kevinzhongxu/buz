@@ -4,6 +4,22 @@
     
     <url>
     
+      <loc>/privacy/</loc>
+      <lastmod>2019-02-28T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/phd-project/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/1st-post/</loc>
       <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     </url>
@@ -14,6 +30,14 @@
     
       <loc>/post/jupyter/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/cyanosiphovirus_fim_2018/</loc>
+      <lastmod>2018-09-19T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -36,6 +60,22 @@
     
     <url>
     
+      <loc>/publication/book_vom_method/</loc>
+      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/book_vom_interaction/</loc>
+      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/talk/example/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -52,14 +92,6 @@
     
     <url>
     
-      <loc>/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-08:00</lastmod>
     </url>
@@ -68,8 +100,8 @@
     
     <url>
     
-      <loc>/publication/person-re-id/</loc>
-      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+      <loc>/publication/ssdna_rim_2015/</loc>
+      <lastmod>2015-10-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -84,8 +116,72 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <loc>/publication/algaevirus_em_2014/</loc>
+      <lastmod>2014-03-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/t4phage_fb_2014/</loc>
+      <lastmod>2014-03-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/dgge_er_2014/</loc>
+      <lastmod>2014-03-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/parvathi_2014_hess/</loc>
+      <lastmod>2014-02-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/viroplankton_me_2014/</loc>
+      <lastmod>2014-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/cyanophage_fems_2013/</loc>
+      <lastmod>2013-12-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/cyanophage_aem_2013/</loc>
+      <lastmod>2013-11-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/parvathi_2012_alo/</loc>
+      <lastmod>2012-11-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/publication/jacquet_2012_jap/</loc>
+      <lastmod>2012-05-01T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -99,8 +195,8 @@
     
     <url>
     
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2018-09-19T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -108,8 +204,8 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+      <loc>/publication_types/5/</loc>
+      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -118,7 +214,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-02-28T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -169,15 +265,6 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
       <priority>0</priority>
@@ -187,8 +274,8 @@
     
     <url>
     
-      <loc>/authors/ga-cushen/</loc>
-      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+      <loc>/authors/jacquet-et-al./</loc>
+      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -196,8 +283,8 @@
     
     <url>
     
-      <loc>/authors/ms-nixon/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <loc>/authors/parvathi-et-al./</loc>
+      <lastmod>2014-02-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -214,7 +301,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -223,7 +310,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00-07:00</lastmod>
+      <lastmod>2018-09-19T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -232,7 +319,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2015-09-01T00:00:00-07:00</lastmod>
+      <lastmod>2018-09-19T00:00:00-07:00</lastmod>
     </url>
     
   
@@ -289,7 +376,52 @@
     
     <url>
     
+      <loc>/authors/zhong-and-jacquet/</loc>
+      <lastmod>2014-03-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/authors/zhong-et-al./</loc>
+      <lastmod>2018-09-19T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/admin/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/algae-viruses/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/aquatic-viruses/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/cyanophages/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -299,6 +431,24 @@
     
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/freshwater/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/marine/</loc>
+      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -326,6 +476,24 @@
     
       <loc>/categories/test/</loc>
       <lastmod>2019-02-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/viroplankton/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/virus-host-interaction/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     

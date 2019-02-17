@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhong and Jacquet, 2014 on Academic</title>
+    <link>/authors/zhong-and-jacquet-2014/</link>
+    <description>Recent content in Zhong and Jacquet, 2014 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Mar 2014 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/zhong-and-jacquet-2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Differing assemblage composition and dynamics in T4‐like myophages of two neighbouring sub‐alpine lakes</title>
+      <link>/publication/t4phage_fb_2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/t4phage_fb_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

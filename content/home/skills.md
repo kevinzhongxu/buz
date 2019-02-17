@@ -16,21 +16,29 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Molecular biology"
+  description = "40%"
+  
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "Microbiology"
+  description = "10%"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "25%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "laptop"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = ".Omics"
+  description = "25%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+
 
 +++

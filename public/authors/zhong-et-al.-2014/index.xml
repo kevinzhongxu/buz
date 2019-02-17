@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhong et al., 2014 on Academic</title>
+    <link>/authors/zhong-et-al.-2014/</link>
+    <description>Recent content in Zhong et al., 2014 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/authors/zhong-et-al.-2014/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Variations in abundance, genome size, morphology, and functional role of the virioplankton in Lakes Annecy and Bourget over a 1-year period.</title>
+      <link>/publication/viroplankton_me_2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0800</pubDate>
+      
+      <guid>/publication/viroplankton_me_2014/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>

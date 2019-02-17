@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhong and Jacquet, 2013 on Academic</title>
+    <link>/authors/zhong-and-jacquet-2013/</link>
+    <description>Recent content in Zhong and Jacquet, 2013 on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Nov 2013 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/authors/zhong-and-jacquet-2013/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prevalence of Viral Photosynthetic and Capsid Protein Genes from Cyanophages in Two Large and Deep Perialpine Lakes</title>
+      <link>/publication/cyanophage_aem_2013/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/cyanophage_aem_2013/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
+    
+  </channel>
+</rss>
