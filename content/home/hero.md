@@ -3,7 +3,7 @@
 widget = "hero"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Academic"
+title = "RNA"
 
 # Order that this section will appear in.
 weight = 3
