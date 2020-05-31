@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>CRISPR method overview</title>
+      <title>CRISPR-Cas Selective Amplicon Sequencing (CCSAS) overview</title>
       <link>/tutorial/crispr_overview/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
@@ -43,7 +43,7 @@ Tip 1 Tip 2 Reference &amp;hellip;</description>
     </item>
     
     <item>
-      <title>sgRNA oligo making</title>
+      <title>gRNA-target-site oligonucleotide sequence design</title>
       <link>/tutorial/crispr_sgrna/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       

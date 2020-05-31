@@ -1,9 +1,10 @@
 +++
 # Hero widget.
 widget = "hero"  # Do not modify this line!
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 
-title = "RNA"
+
+title = "CasOligo"
 
 # Order that this section will appear in.
 weight = 3
@@ -19,17 +20,21 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./post/getting-started/"
-  label = '<i class="fas fa-download"></i> Install Now'
+  url = "./tutorial/"
+  label = '<i class="fas fa-download"></i> Tutorial'
 +++
 
-Make guiding RNA for to cut host 18S rRNA genes to reveal eukaryotic microbiomes associated with hosts :rocket:
+Design taxon-specific gRNA-target-sites and thereby taxon-specific sgRNA to guide Cas9 cut host 18S rRNA genes but not microeukaryotes to reveal eukaryotic microbiomes associated with metazoans and plants using the CRISPR-Cas Selective Amplicon Sequencing (CCSAS) :rocket:
 <div style="margin-top: -0.5rem;">
-  <a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">
+  <a id="academic-release" href="https://github.com/kevinzhongxu/CasOligo" data-repo="kevinzhongxu/CasOligo">
   Latest release <!-- V -->
   </a>
 </div>
 <div class="mt-3">
-  <a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
+  <a class="github-button" href="https://github.com/kevinzhongxu/CasOligo" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a>
 </div>
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+

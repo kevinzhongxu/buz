@@ -100,7 +100,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hello, I'm Kevin Xu ZHONG (钟旭), currently a research associate working in [The Suttle Lab](http://www.ocgy.ubc.ca/~suttle/) at The University of British Columbia. I love studying viruses of all kinds (dsDNA, RNA, ssDNA viruses) and from different environments (lakes, oceans, deepsea, sediments, etc.) and hosts (microbes, sea mammals, sea foods, etc.). I specialize in molecular biology and bioinformatics for omics analysis. I'm a big fun of R and make new packages. I love to develope methods for moving forward our understanding about viruses, microbes, and ecosystems in following fields: 
+Hello, I'm Kevin Xu ZHONG (钟旭), currently a research associate working in [The Suttle Lab](http://www.ocgy.ubc.ca/~suttle/) at The University of British Columbia. I love studying viruses of all kinds (dsDNA, RNA, ssDNA viruses) and from different environments (lakes, oceans, deepsea, sediments, etc.) and hosts (microbes, sea mammals, sea foods, etc.). I specialize in molecular biology and bioinformatics for omics analysis. I love to develope methods for moving forward on our understanding about viruses, microbes, and ecosystems in following fields: 
 
   * Environmental virology
   
@@ -108,8 +108,8 @@ Hello, I'm Kevin Xu ZHONG (钟旭), currently a research associate working in [T
   
   * Host-associated microbiome
   
-  * Or maybe Marine science
+  * ...
   
 
-I'm a boring scientist who try to make things more simple and life beautiful. I can easily forget things that make me doubt my IQ could be under zero. My EQ might be incrediblely high as sometimes I could talk to trees, books, or even my desk when I being too long before the labtop. I used to play lots of scoccer but now my time is occupated by science. I have unconquetable fear on swimming although people call me a limnologist or oceanographer. I have being in school for so long, many times when I see my dear grandfa he ask me when I'm going to graduate? I'm afraid of visiting classmates in China, because they were so nice to invite me to a dinner and asked how many houses do I own although I have none. I have accounts IDs for every social media apps, which make me looks like a celebrity or social animal, but please do not blame me if you didn't see my updates since I maybe busy like a businessman. If you want to contact me, you are appreciated to send a [mail](mailto:xzhong@eoas.ubc.ca). 
+I'm a boring scientist who try to make things more simple and life beautiful. I can easily forget things that make me doubt my IQ could be under zero. My EQ might be incrediblely high as sometimes I could talk to trees, books, or even my desk when I being too long before the labtop. I used to play lots of scoccer but now my time is occupated by science. I have unconquetable fear on swimming although people call me a limnologist or oceanographer. I have being in school for so long, many times when I see my dear grandfa he ask me when I'm going to graduate? I have unaccountable IDs for every social media apps, which make me looks like a celebrity, but please do not blame me if you didn't see my updates since I maybe busy like a businessman. If you want to contact me, you are appreciated to send a [mail](mailto:xzhong@eoas.ubc.ca). 
 

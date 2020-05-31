@@ -21,15 +21,5 @@
       <description>Micro-eukaryotic community characterization using deep-amplicons sequencing has been a routine technique in microbiome study in examining health, discovering pathogens, and addressing ecological and evolutionary questions in field of marine biology. A main challenge lies in reducing eukaryotic host signature when using universal 18S rRNA gene markers that capture conservative regions of eukaryotes. Various Polymerase chain reaction (PCR) manipulation in tandem with host-specific blocking primers can be used. However, blocking primers usually target within the universal primers, which could reduce the phylogenetic resolution due to such short fragment, and its application is limited to certain host range.</description>
     </item>
     
-    <item>
-      <title>Ribosomes in the sea</title>
-      <link>/project/ribosome/</link>
-      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
-      
-      <guid>/project/ribosome/</guid>
-      <description>This project, funded by Tula fundation, is a new method development that employ extracellular free ribosomes to esimate taxon-specific microbial mortality.
- Estimate the cell lysis of microbes based on standing-stock seawater Estimate the cell mortatlity rate of microbes based on standing-stock seawater if we know the ribosome turnover rate Measure the &amp;ldquo;instant&amp;rdquo; cell mortatlity rate of microbes using ribosomes production and decay assay   This project produce xxxx research articles and a R package.</description>
-    </item>
-    
   </channel>
 </rss>
