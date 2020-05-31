@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jacquet et al. on Academic</title>
+    <title>Jacquet et al. on ZHONG</title>
     <link>/authors/jacquet-et-al./</link>
-    <description>Recent content in Jacquet et al. on Academic</description>
+    <description>Recent content in Jacquet et al. on ZHONG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019 Kevin Xu ZHONG</copyright>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/authors/jacquet-et-al./index.xml" rel="self" type="application/rss+xml" />

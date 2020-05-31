@@ -12,7 +12,23 @@
     
     <url>
     
+      <loc>/project/crispr/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/project/phd-project/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/project/ribosome/</loc>
       <lastmod>2019-02-14T00:00:00-08:00</lastmod>
     </url>
     
@@ -44,7 +60,15 @@
     
     <url>
     
-      <loc>/tutorial/example/</loc>
+      <loc>/tutorial/crispr_overview/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/crispr_protocol/</loc>
       <lastmod>2018-09-09T00:00:00-07:00</lastmod>
     </url>
     
@@ -53,6 +77,22 @@
     <url>
     
       <loc>/tutorial/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/ribosome/</loc>
+      <lastmod>2018-09-09T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tutorial/crispr_sgrna/</loc>
       <lastmod>2018-09-09T00:00:00-07:00</lastmod>
     </url>
     
@@ -213,15 +253,6 @@
     
     <url>
     
-      <loc>/</loc>
-      <lastmod>2019-02-28T00:00:00-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00-08:00</lastmod>
       <priority>0</priority>
@@ -250,6 +281,15 @@
     
       <loc>/authors/</loc>
       <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/crispr/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -376,6 +416,15 @@
     
     <url>
     
+      <loc>/</loc>
+      <lastmod>2019-02-28T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/authors/zhong-and-jacquet/</loc>
       <lastmod>2014-03-01T00:00:00-08:00</lastmod>
       <priority>0</priority>
@@ -456,6 +505,24 @@
     
     <url>
     
+      <loc>/tags/methodology/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/microbiome/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
@@ -467,6 +534,15 @@
     
       <loc>/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>/tags/ribosome/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     

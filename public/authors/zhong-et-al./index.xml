@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zhong et al. on Academic</title>
+    <title>Zhong et al. on ZHONG</title>
     <link>/authors/zhong-et-al./</link>
-    <description>Recent content in Zhong et al. on Academic</description>
+    <description>Recent content in Zhong et al. on ZHONG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019 Kevin Xu ZHONG</copyright>
     <lastBuildDate>Wed, 19 Sep 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/authors/zhong-et-al./index.xml" rel="self" type="application/rss+xml" />

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>demo on Academic</title>
+    <title>demo on ZHONG</title>
     <link>/tags/demo/</link>
-    <description>Recent content in demo on Academic</description>
+    <description>Recent content in demo on ZHONG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019 Kevin Xu ZHONG</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />

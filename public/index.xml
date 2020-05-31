@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>ZHONG on ZHONG</title>
     <link>/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in ZHONG on ZHONG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019 Kevin Xu ZHONG</copyright>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 -0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
@@ -20,12 +21,64 @@
     </item>
     
     <item>
+      <title>CRISPR</title>
+      <link>/project/crispr/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/crispr/</guid>
+      <description>&lt;p&gt;Micro-eukaryotic community characterization using deep-amplicons sequencing has been a routine technique in microbiome study in examining health, discovering pathogens, and addressing ecological and evolutionary questions in field of marine biology. A main challenge lies in reducing eukaryotic host signature when using universal 18S rRNA gene markers that capture conservative regions of eukaryotes. Various Polymerase chain reaction (PCR) manipulation in tandem with host-specific blocking primers can be used. However, blocking primers usually target within the universal primers, which could reduce the phylogenetic resolution due to such short fragment, and its application is limited to certain host range. Hence, we report a versatile method that use laboratory-designed and synthesized guiding RNA (gRNA) to guide CRISPR-cas9 to cut specifically the host 18S rDNA amplicon. As a result, the protists and fungal 18S amplicons could be enriched in the sequencing data. This method adds a promising tool to study eukaryotic microbiomes of complex system, offering a broad implication in pathogens diagnosis, symbiotic study, microbiome therapy, etc.&lt;/p&gt;
+
+&lt;p&gt;Applied this method to 10 model-organisms of metazoan and plant, our results showed that up to 99% of host 18S amplicons were digested while not affecting micro-eukaryotic amplicons of protists and fungus.&lt;/p&gt;
+
+&lt;p&gt;Using this method, the eukaryotic microbiome has been sucessuflly investiaged for [oyster](), [sealice](),&lt;/p&gt;
+
+&lt;p&gt;Extending this approach to other metazoan and plant, we are able to design sgRNA for each organism of SILVA database and create a sgRNA database for researchers who want to apply to their own organisms for various purposes.&lt;/p&gt;
+
+&lt;p&gt;This CRISPR work is part of &amp;ldquo;The shellfish gene&amp;rdquo; project funded by &lt;a href=&#34;https://www.foundationguide.org/foundations-trust/gordon-betty-moore-foundation/&#34; target=&#34;_blank&#34;&gt;The Gordon and Betty Moore Foundation&lt;/a&gt; during year 2017 - 2021, with aime to investigate the eukaryotic microbiome associated to pacific oysters to understand the causis of high mortality for oyster hatchy in Vancouver area. The CRISPR work lead to two R packages, and two articles publications. Kevin also expend this new method for other organisms by teaching people how to design guiding RNA and he also build a gRNA database for each organism of SILVA database and create a sgRNA database for researchers who want to apply to their own organisms for various purposes.&lt;/p&gt;
+
+&lt;p&gt;Here, let&amp;rsquo;s search, make sgRNA for CRISPR method:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Search sgRNA for your the host species you want to target (website)&lt;/li&gt;
+&lt;li&gt;If you have a 18S rRNA sequence of host, search sgRNA to cut (R package)&lt;/li&gt;
+&lt;li&gt;Search sgRNA for your the host species you want to target (R package)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PhD project</title>
       <link>/project/phd-project/</link>
       <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>/project/phd-project/</guid>
       <description>&lt;p&gt;This is my PhD project funded by &lt;a href=&#34;http://www.prefectures-regions.gouv.fr/auvergne-rhone-alpes&#34; target=&#34;_blank&#34;&gt;Region Rhône-Alpes&lt;/a&gt; during year 2010 - 2013, working in &lt;a href=&#34;https://www6.dijon.inra.fr/thonon/&#34; target=&#34;_blank&#34;&gt;INRA UMR CARRTEL&lt;/a&gt; at Thonon-les-bains in France under the supervision of &lt;a href=&#34;https://www6.dijon.inra.fr/thonon/Infos-utiles/Le-personnel-de-la-station/CVs-du-personnel/Jacquet-Stephan&#34; target=&#34;_blank&#34;&gt;Dr. Stéphan Jacquet&lt;/a&gt;. During three and half years, I conducted research to investigate and highlight the diversity, distribution, dynamic, and community structure of phytoplankton viruses and their functional roles in three large and deep European peri-alpine lakes: Lakes Annecy, Bourget and Geneva. This PhD work increased and enriched our knowledge in freshwater viral ecology, and was published as 2 book chapters in &lt;a href=&#34;https://www.caister.com/vom&#34; target=&#34;_blank&#34;&gt;Viruses of Microorganisms&lt;/a&gt; and 11 articles in peer-reviewed journals: Frontier in Microbiology, Applied Environmental Microbiology, Environmental Microbiology, Microbial Ecology, Freshwater Biology, FEMS Microbiology Ecology, Research in Microbiology, Hydrology and Earth System Sciences, etc. With such volume of work, Kevin Xu Zhong&amp;rsquo;s PhD thesis titled “Freshwater dsDNA viral diversity: A special emphasis on viruses infecting phytoplankton (cyanophages and phycodnaviruses) and T4-like myophages in peri-alpine lakes” was selected as the best European PhD Dissertation in Freshwater Sciences during year 2013 - 2014 by &lt;a href=&#34;http://www.freshwatersciences.eu/effs/index.asp?page=NEWS&amp;amp;Id=6&amp;amp;IdItem=193&#34; target=&#34;_blank&#34;&gt;European Federation for Freshwater Sciences&lt;/a&gt;. Kevin obtained in 2014 the &lt;a href=&#34;https://www.univ-smb.fr/en/2015/04/14/kevin-zhong-ancien-doctorant-au-laboratoire-carrtel-recoit-le-1er-prix-de-these-de-leffs-european-freshwater-federation-society/&#34; target=&#34;_blank&#34;&gt;Chinese Government Award for Outstanding PhD Students Abroad&lt;/a&gt; by China Scholarship Council, and in 2015 he represented &lt;a href=&#34;https://www.limnologie.fr/&#34; target=&#34;_blank&#34;&gt;French Society of Limnology&lt;/a&gt; won the &lt;a href=&#34;http://www.freshwatersciences.eu/effs/index.asp?page=NEWS&amp;amp;Id=6&amp;amp;IdItem=193&#34; target=&#34;_blank&#34;&gt;EFFS Award for the best European PhD Dissertation in Freshwater Sciences&lt;/a&gt;. Tremendous thanks to &lt;a href=&#34;https://www6.dijon.inra.fr/thonon/Infos-utiles/Le-personnel-de-la-station/CVs-du-personnel/Jacquet-Stephan&#34; target=&#34;_blank&#34;&gt; Stéphan&lt;/a&gt;, colleagues from &lt;a href=&#34;https://www6.dijon.inra.fr/thonon/&#34; target=&#34;_blank&#34;&gt;INAR UMR CARRTEL&lt;/a&gt;, co-authors, collaborators, members of PhD jury (&lt;a href=&#34;http://biom.obs-banyuls.fr/en/group-4-genophy/group/researchers/yves_desdevises_university_lecturer.html&#34; target=&#34;_blank&#34;&gt;Yves Desdevises&lt;/a&gt;, &lt;a href=&#34;http://www.sb-roscoff.fr/en/guillou-laure/182&#34; target=&#34;_blank&#34;&gt;Laure Guillou&lt;/a&gt;, &lt;a href=&#34;http://www.lov.obs-vlfr.fr/fr/presentation_generale/les_equipes_de_recherche/composition_biodiversite_et_biogeochimie.php&#34; target=&#34;_blank&#34;&gt;Markus Weinbauer&lt;/a&gt;, &lt;a href=&#34;https://www.i2bc.paris-saclay.fr/spip.php?article386&amp;amp;lang=en&#34; target=&#34;_blank&#34;&gt;Michael DuBow&lt;/a&gt;, &lt;a href=&#34;https://lienss.univ-larochelle.fr/Montanie-Helene-MCF-HDR&#34; target=&#34;_blank&#34;&gt;Hélène Montanié&lt;/a&gt;), funding sources, families, friends, and people that I may forget their names for their supports during my stay in beautiful France.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ribosomes in the sea</title>
+      <link>/project/ribosome/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/ribosome/</guid>
+      <description>&lt;p&gt;This project, funded by &lt;a href=&#34;https://tula.org/&#34; target=&#34;_blank&#34;&gt;Tula fundation&lt;/a&gt;, is a new method development that employ extracellular free ribosomes to esimate taxon-specific microbial mortality.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Estimate the cell lysis of microbes based on standing-stock seawater&lt;/li&gt;
+&lt;li&gt;Estimate the cell mortatlity rate of microbes based on standing-stock seawater if we know the ribosome turnover rate&lt;/li&gt;
+&lt;li&gt;Measure the &amp;ldquo;instant&amp;rdquo; cell mortatlity rate of microbes using ribosomes production and decay assay
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This project produce xxxx research articles and a R package.&lt;/p&gt;
+
+&lt;p&gt;The ability to estimate taxon-specific mortality as the result of cell lysis adds an important tool in our quest to explain the distribution and abundance of specific microbial taxa in nature.
+The is a method could bridge a gap between viral ecology and microbial ecology to understand &amp;ldquo;whom is lysed?&amp;rdquo;, &amp;ldquo;how many cells were lysed?&amp;rdquo; and &amp;ldquo;how important the lysis it is? in oceans&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;In following link, you can find the [R package]() to estimate the rRNA gene copies per genome.&lt;/p&gt;
+
+&lt;p&gt;Despite the central role of microbes in biogeochemical cycles in world&amp;rsquo;s ocean, there’s no robust method to measure the taxon-specific mortality. Here, we report a method that employs extracellular free-ribosomes as a proxy to evaluate taxon-specific microbial lysis. The method was validated with laboratory cultures of the marine heterotrophic bacterium Vibrio natriegens strain PWH3a and the photoautotroph Synechococcus sp. strain DC2, with and without grazers or viruses, to identify the origin and fate of the extracellular free-ribosomes. Our results showed both viral lysis and programmed-cell-death (PCD) contribute to free-ribosome production. Ribosomes were not released when cells were grazed, but grazers could consume free-ribosomes. We demonstrated that extracellular free-ribosomes can be used to evaluate microbial mortality caused by viral lysis and PCD. This approach was applied to environmental samples by examining the taxonomic composition and relative abundance of free 16S-ribosomes in seawater samples collected from the Strait of Georgia, British Columbia, Canada. Cell lysis was detected in a wide range and high proportion (up to 34.1%) of prokaryotic taxa. Our results showed high-lysis coupled with low-abundance, suggesting that taxa in lower abundance are subject to higher relative rates of cell lysis, consistent with previous suggestions. The ability to estimate taxon-specific mortality as the result of cell lysis adds an important tool in our quest to explain the distribution and abundance of specific microbial taxa in nature.&lt;/p&gt;
 </description>
     </item>
     
@@ -113,20 +166,80 @@ rm Untitled.md
     </item>
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <title>CRISPR method overview</title>
+      <link>/tutorial/crispr_overview/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>/tutorial/crispr_overview/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Library preparation protocol</title>
+      <link>/tutorial/crispr_protocol/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tutorial/crispr_protocol/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 
 &lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ribosome</title>
+      <link>/tutorial/ribosome/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tutorial/ribosome/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sgRNA oligo making</title>
+      <link>/tutorial/crispr_sgrna/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tutorial/crispr_sgrna/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
@@ -185,459 +298,6 @@ rm Untitled.md
       
       <guid>/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
-      
-      <guid>/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
-
-&lt;p&gt;Follow our easy &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/&#34; target=&#34;_blank&#34;&gt;step by step guide&lt;/a&gt; to learn how to build your own free website with Academic. &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the personal demo&lt;/a&gt; or the &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;business demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the documentation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://discuss.gohugo.io/&#34; target=&#34;_blank&#34;&gt;Ask a question&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a feature or report a bug&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Updating? View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Support development of Academic:
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;Donate a coffee&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on Patreon&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic sticker&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the T-shirt&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-1950s.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-apogee.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-cupcake.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-dark.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-default.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-forest.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-    
-    
-    
-    
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-    
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;/post/getting-started/gallery/theme-ocean.png&#34; alt=&#34;&#34;&gt;
-  &lt;/a&gt;
-  
-
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structure and diversity of ssDNA Microviridae viruses in two peri-alpine lakes (Annecy and Bourget, France)</title>
-      <link>/publication/ssdna_rim_2015/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/ssdna_rim_2015/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contrasting diversity of phycodnavirus signature genes in two large and deep western European lakes</title>
-      <link>/publication/algaevirus_em_2014/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
-      
-      <guid>/publication/algaevirus_em_2014/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Differing assemblage composition and dynamics in T4‐like myophages of two neighbouring sub‐alpine lakes</title>
-      <link>/publication/t4phage_fb_2014/</link>
-      <pubDate>Sat, 01 Mar 2014 00:00:00 -0800</pubDate>
-      
-      <guid>/publication/t4phage_fb_2014/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

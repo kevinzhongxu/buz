@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>microbiome on ZHONG</title>
+    <link>/tags/microbiome/</link>
+    <description>Recent content in microbiome on ZHONG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Kevin Xu ZHONG</copyright>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="/tags/microbiome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CRISPR</title>
+      <link>/project/crispr/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/crispr/</guid>
+      <description>Micro-eukaryotic community characterization using deep-amplicons sequencing has been a routine technique in microbiome study in examining health, discovering pathogens, and addressing ecological and evolutionary questions in field of marine biology. A main challenge lies in reducing eukaryotic host signature when using universal 18S rRNA gene markers that capture conservative regions of eukaryotes. Various Polymerase chain reaction (PCR) manipulation in tandem with host-specific blocking primers can be used. However, blocking primers usually target within the universal primers, which could reduce the phylogenetic resolution due to such short fragment, and its application is limited to certain host range.</description>
+    </item>
+    
+  </channel>
+</rss>

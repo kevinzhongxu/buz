@@ -61,6 +61,14 @@ filter_default = 0
   tag = "oceanography"
 
 [[filter]]
+  name = "New methodology development"
+  tag = "methodology"
+  
+[[filter]]
+  name = "Ribosomes in the sea"
+  tag = "ribosome"
+
+[[filter]]
   name = "Other"
   tag = "Demo"
 

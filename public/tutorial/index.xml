@@ -1,25 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview on Academic</title>
+    <title>Overview on ZHONG</title>
     <link>/tutorial/</link>
-    <description>Recent content in Overview on Academic</description>
+    <description>Recent content in Overview on ZHONG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019 Kevin Xu ZHONG</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Page</title>
-      <link>/tutorial/example/</link>
+      <title>CRISPR method overview</title>
+      <link>/tutorial/crispr_overview/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
       
-      <guid>/tutorial/example/</guid>
+      <guid>/tutorial/crispr_overview/</guid>
       <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-Tip 1 &amp;hellip;
-Tip 2 &amp;hellip;</description>
+Tip 1 Tip 2 Reference &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Library preparation protocol</title>
+      <link>/tutorial/crispr_protocol/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tutorial/crispr_protocol/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 1 Tip 2 Reference &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Ribosome</title>
+      <link>/tutorial/ribosome/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tutorial/ribosome/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 1 Tip 2 Reference &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>sgRNA oligo making</title>
+      <link>/tutorial/crispr_sgrna/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0700</pubDate>
+      
+      <guid>/tutorial/crispr_sgrna/</guid>
+      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
+Tip 1 Tip 2 Reference &amp;hellip;</description>
     </item>
     
   </channel>
