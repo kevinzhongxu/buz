@@ -47,6 +47,16 @@
     </item>
     
     <item>
+      <title>PhD project</title>
+      <link>/project/phd-project/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/phd-project/</guid>
+      <description>&lt;p&gt;I had been in &lt;a href=&#34;https://www6.dijon.inra.fr/thonon/&#34; target=&#34;_blank&#34;&gt;INRA UMR CARRTEL&lt;/a&gt; at &lt;a href=&#34;https://en.wikipedia.org/wiki/Thonon-les-Bains&#34; target=&#34;_blank&#34;&gt;Thonon-les-bains&lt;/a&gt; in France under the supervision of &lt;a href=&#34;https://www6.dijon.inra.fr/thonon/Infos-utiles/Le-personnel-de-la-station/CVs-du-personnel/Jacquet-Stephan&#34; target=&#34;_blank&#34;&gt;Dr. Stéphan Jacquet&lt;/a&gt; for a PhD project, which was funded by &lt;a href=&#34;http://www.prefectures-regions.gouv.fr/auvergne-rhone-alpes&#34; target=&#34;_blank&#34;&gt;Region Rhône-Alpes&lt;/a&gt;. During three and half years (2010-2014), I conducted research to investigate and highlight the diversity, distribution, dynamic, and community structure of phytoplankton viruses and their functional roles in three large and deep European peri-alpine lakes: Lakes Annecy, Bourget and Geneva. This PhD work increased and enriched our knowledge in freshwater viral ecology, and was published as 2 book chapters in &lt;a href=&#34;https://www.caister.com/vom&#34; target=&#34;_blank&#34;&gt;Viruses of Microorganisms&lt;/a&gt; and 11 articles in peer-reviewed journals: Frontier in Microbiology, Applied Environmental Microbiology, Environmental Microbiology, Microbial Ecology, Freshwater Biology, FEMS Microbiology Ecology, Research in Microbiology, Hydrology and Earth System Sciences, etc. With such volume of work, Kevin Xu Zhong&amp;rsquo;s PhD thesis titled “Freshwater dsDNA viral diversity: A special emphasis on viruses infecting phytoplankton (cyanophages and phycodnaviruses) and T4-like myophages in peri-alpine lakes” was selected as the best European PhD Dissertation in Freshwater Sciences during year 2013 - 2014 by &lt;a href=&#34;http://www.freshwatersciences.eu/effs/index.asp?page=NEWS&amp;amp;Id=6&amp;amp;IdItem=193&#34; target=&#34;_blank&#34;&gt;European Federation for Freshwater Sciences&lt;/a&gt;. In 2015, Kevin represented &lt;a href=&#34;https://www.limnologie.fr/&#34; target=&#34;_blank&#34;&gt;French Society of Limnology&lt;/a&gt; won the &lt;a href=&#34;http://www.freshwatersciences.eu/effs/index.asp?page=NEWS&amp;amp;Id=6&amp;amp;IdItem=193&#34; target=&#34;_blank&#34;&gt;EFFS Award for the best European PhD Dissertation in Freshwater Sciences&lt;/a&gt;. Tremendous thanks to &lt;a href=&#34;https://www6.dijon.inra.fr/thonon/Infos-utiles/Le-personnel-de-la-station/CVs-du-personnel/Jacquet-Stephan&#34; target=&#34;_blank&#34;&gt; Stéphan&lt;/a&gt;, colleagues from &lt;a href=&#34;https://www6.dijon.inra.fr/thonon/&#34; target=&#34;_blank&#34;&gt;INAR UMR CARRTEL&lt;/a&gt;, co-authors, collaborators, members of PhD jury (&lt;a href=&#34;http://biom.obs-banyuls.fr/en/group-4-genophy/group/researchers/yves_desdevises_university_lecturer.html&#34; target=&#34;_blank&#34;&gt;Yves Desdevises&lt;/a&gt;, &lt;a href=&#34;http://www.sb-roscoff.fr/en/guillou-laure/182&#34; target=&#34;_blank&#34;&gt;Laure Guillou&lt;/a&gt;, &lt;a href=&#34;http://www.lov.obs-vlfr.fr/fr/presentation_generale/les_equipes_de_recherche/composition_biodiversite_et_biogeochimie.php&#34; target=&#34;_blank&#34;&gt;Markus Weinbauer&lt;/a&gt;, &lt;a href=&#34;https://www.i2bc.paris-saclay.fr/spip.php?article386&amp;amp;lang=en&#34; target=&#34;_blank&#34;&gt;Michael DuBow&lt;/a&gt;, &lt;a href=&#34;https://lienss.univ-larochelle.fr/Montanie-Helene-MCF-HDR&#34; target=&#34;_blank&#34;&gt;Hélène Montanié&lt;/a&gt;), funding sources, families, friends, and people that I may forget their names for their huge supports during my stay in beautiful France.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>1st post</title>
       <link>/post/1st-post/</link>
       <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
@@ -633,16 +643,6 @@ git submodule update --init --recursive
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structure and diversity of ssDNA Microviridae viruses in two peri-alpine lakes (Annecy and Bourget, France)</title>
-      <link>/publication/ssdna_rim_2015/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 -0700</pubDate>
-      
-      <guid>/publication/ssdna_rim_2015/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     

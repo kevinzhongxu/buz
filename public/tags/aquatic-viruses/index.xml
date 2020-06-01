@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Kevin Xu ZHONG</copyright>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="/tags/aquatic-viruses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PhD project</title>
+      <link>/project/phd-project/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
+      
+      <guid>/project/phd-project/</guid>
+      <description>I had been in INRA UMR CARRTEL at Thonon-les-bains in France under the supervision of Dr. Stéphan Jacquet for a PhD project, which was funded by Region Rhône-Alpes. During three and half years (2010-2014), I conducted research to investigate and highlight the diversity, distribution, dynamic, and community structure of phytoplankton viruses and their functional roles in three large and deep European peri-alpine lakes: Lakes Annecy, Bourget and Geneva. This PhD work increased and enriched our knowledge in freshwater viral ecology, and was published as 2 book chapters in Viruses of Microorganisms and 11 articles in peer-reviewed journals: Frontier in Microbiology, Applied Environmental Microbiology, Environmental Microbiology, Microbial Ecology, Freshwater Biology, FEMS Microbiology Ecology, Research in Microbiology, Hydrology and Earth System Sciences, etc.</description>
+    </item>
     
     <item>
       <title>Methods and Technologies to Assess Viral Interactions in the Aquatic World</title>

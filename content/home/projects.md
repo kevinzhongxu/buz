@@ -64,9 +64,13 @@ filter_default = 0
   name = "New methodology development"
   tag = "methodology"
   
+#[[filter]]
+#  name = "Ribosomes in the sea"
+#  tag = "ribosome"
+
 [[filter]]
-  name = "Ribosomes in the sea"
-  tag = "ribosome"
+  name = "PhD"
+  tag = "PhD-project"
 
 [[filter]]
   name = "Other"

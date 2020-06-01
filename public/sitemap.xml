@@ -20,6 +20,14 @@
     
     <url>
     
+      <loc>/project/phd-project/</loc>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>/post/1st-post/</loc>
       <lastmod>2019-02-13T00:00:00+00:00</lastmod>
     </url>
@@ -213,13 +221,6 @@
     <url>
     
       <loc>/author/admin/</loc>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>/project/phd-project/</loc>
     </url>
     
   
@@ -443,7 +444,7 @@
     <url>
     
       <loc>/tags/algae-viruses/</loc>
-      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -452,7 +453,7 @@
     <url>
     
       <loc>/tags/aquatic-viruses/</loc>
-      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -461,7 +462,7 @@
     <url>
     
       <loc>/tags/cyanophages/</loc>
-      <lastmod>2018-09-19T00:00:00-07:00</lastmod>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -479,7 +480,7 @@
     <url>
     
       <loc>/tags/freshwater/</loc>
-      <lastmod>2018-09-19T00:00:00-07:00</lastmod>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -542,7 +543,7 @@
     <url>
     
       <loc>/tags/viroplankton/</loc>
-      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -551,7 +552,7 @@
     <url>
     
       <loc>/tags/virus-host-interaction/</loc>
-      <lastmod>2017-12-01T00:00:00-08:00</lastmod>
+      <lastmod>2019-02-14T00:00:00-08:00</lastmod>
       <priority>0</priority>
     </url>
     

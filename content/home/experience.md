@@ -82,7 +82,6 @@ date_format = "January 2006"
   
   * Coordinate customers and foreign EMO factories
   * Manage orders and suppliers
-  * Monitor the progress of samples and production to ensure quality and
-delivery
+  * Manage sampling and bulk-production to ensure quality and delivery
   """
 +++

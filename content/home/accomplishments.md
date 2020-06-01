@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   title = "Master 2 course on: Microbial Diversity and Biochemistry of Oceans"
   organization = "Université Pierre et Marie Curie"
-  certificate_url = "https://projects.croucher.org.hk/summer-courses/climate-change-and-marine-ecosystems"
+  certificate_url = "http://biom.obs-banyuls.fr/fr/index.html"
   date_start = "2010-11-29"
   date_end = ""
   description = ""
