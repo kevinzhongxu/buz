@@ -25,7 +25,7 @@ weight = 3
   label = '<i class="fas fa-download"></i> Tutorial'
 +++
 
-Design taxon-specific gRNA-target-sites and thereby taxon-specific sgRNA to direct Cas9 cut host 18S rRNA genes but not microeukaryotes to reveal eukaryotic microbiomes associated with metazoans and plants using the CRISPR-Cas Selective Amplicon Sequencing (CCSAS) :rocket:
+Design taxon-specific gRNA-target-sites, thereby the taxon-specific sgRNA to direct Cas9 cut host 18S rRNA genes but not microeukaryotes to reveal eukaryotic microbiomes associated with metazoans and plants using the CRISPR-Cas Selective Amplicon Sequencing (CCSAS) :rocket:
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://github.com/kevinzhongxu/CasOligo" data-repo="kevinzhongxu/CasOligo">
   Latest release <!-- V -->
