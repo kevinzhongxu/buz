@@ -21,11 +21,11 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "./tutorial/"
-  label = '<i class="fas fa-download"></i> Tutorial'
+  url = "https://github.com/kevinzhongxu/CasOligo"
+  label = '<i class="fas fa-download"></i> Install Now'
 +++
 
-Design taxon-specific gRNA-target-sites, thereby the taxon-specific sgRNA to direct Cas9 cut host 18S rRNA genes but not microeukaryotes to reveal eukaryotic microbiomes associated with metazoans and plants using the CRISPR-Cas Selective Amplicon Sequencing (CCSAS) :rocket:
+Design taxon-specific gRNA-target-sites, thereby the taxon-specific sgRNA to direct Cas9 to cut host 18S rRNA genes but not microeukaryotes in order to reveal eukaryotic microbiomes associated with metazoans and plants using the CRISPR-Cas Selective Amplicon Sequencing (CCSAS) :rocket:
 <div style="margin-top: -0.5rem;">
   <a id="academic-release" href="https://github.com/kevinzhongxu/CasOligo" data-repo="kevinzhongxu/CasOligo">
   Latest release <!-- V -->

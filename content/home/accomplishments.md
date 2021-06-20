@@ -36,4 +36,12 @@ date_format = "Jan 2006"
   description = ""
 
 
+[[item]]
+  title = "EFFS Award for the best European PhD Dissertation in Freshwater Sciences, 2013-2014"
+  organization = "European Federation for Freshwater Sciences (EFFS)"
+  certificate_url = "http://www.freshwatersciences.eu/effs/index.asp?page=NEWS&Id=6&IdItem=193&p=2"
+  date_start = "2015-07-09"
+  date_end = ""
+  description = ""
+
 +++

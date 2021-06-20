@@ -59,7 +59,7 @@ date_format = "January 2006"
   location = "Lyon, France"
   date_start = "2010-01-01"
   date_end = "2010-07-31"
-  description = """Thesis: Metal and antibiotic resistome in mining soils (PI: Dr. Elizabeth Navarro)"""
+  description = """Thesis: Metal and antibiotic resistome in mining soils (PI: Dr. Elizabeth Navarro & Dr. Marina Henry)"""
   
 [[experience]]
   title = "Student research assistant"

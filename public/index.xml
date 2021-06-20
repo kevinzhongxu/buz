@@ -7,18 +7,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Kevin Xu ZHONG</copyright>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 -0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 -0800</pubDate>
-      
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>CRISPR</title>
@@ -26,23 +16,9 @@
       <pubDate>Thu, 14 Feb 2019 00:00:00 -0800</pubDate>
       
       <guid>/project/crispr/</guid>
-      <description>&lt;p&gt;Micro-eukaryotic community characterization using deep-amplicons sequencing has been a routine technique in microbiome study in examining health, discovering pathogens, and addressing ecological and evolutionary questions in field of marine biology. A main challenge lies in reducing eukaryotic host signature when using universal 18S rRNA gene markers that capture conservative regions of eukaryotes. Various Polymerase chain reaction (PCR) manipulation in tandem with host-specific blocking primers can be used. However, blocking primers usually target within the universal primers, which could reduce the phylogenetic resolution due to such short fragment, and its application is limited to certain host range. Hence, we report a versatile method that use laboratory-designed and synthesized guiding RNA (gRNA) to guide CRISPR-cas9 to cut specifically the host 18S rDNA amplicon. As a result, the protists and fungal 18S amplicons could be enriched in the sequencing data. This method adds a promising tool to study eukaryotic microbiomes of complex system, offering a broad implication in pathogens diagnosis, symbiotic study, microbiome therapy, etc.&lt;/p&gt;
+      <description>&lt;p&gt;Micro-eukaryotic community characterization using deep-amplicons sequencing has been a routine technique in microbiome study in examining health, discovering pathogens, and addressing ecological and evolutionary questions in field of marine biology. A main challenge lies in reducing eukaryotic host signature when using universal 18S rRNA gene markers that capture conservative regions of eukaryotes. Various Polymerase chain reaction (PCR) manipulation in tandem with host-specific blocking primers can be used. However, blocking primers usually target within the universal primers, which could reduce the phylogenetic resolution due to such short fragment, and its application is limited to certain host range. Hence, we report a versatile method that use laboratory-designed and synthesized guiding RNA (gRNA) to guide CRISPR-cas9 to cut specifically the host 18S rDNA, but not microeukaryotes. As a result, the protists and fungal 18S amplicons could be enriched in the sequencing data. This method, termed as CRISPR-Cas Selective Amplicon Sequencing (CCSAS), adds a promising tool to study eukaryotic microbiomes of complex system, offering a broad implication in pathogens diagnosis, symbiotic study, microbiome therapy, etc.&lt;/p&gt;
 
-&lt;p&gt;Applied this method to 10 model-organisms of metazoan and plant, our results showed that up to 99% of host 18S amplicons were digested while not affecting micro-eukaryotic amplicons of protists and fungus.&lt;/p&gt;
-
-&lt;p&gt;Using this method, the eukaryotic microbiome has been sucessuflly investiaged for [oyster](), [sealice](),&lt;/p&gt;
-
-&lt;p&gt;Extending this approach to other metazoan and plant, we are able to design sgRNA for each organism of SILVA database and create a sgRNA database for researchers who want to apply to their own organisms for various purposes.&lt;/p&gt;
-
-&lt;p&gt;This CRISPR work is part of &amp;ldquo;The shellfish gene&amp;rdquo; project funded by &lt;a href=&#34;https://www.foundationguide.org/foundations-trust/gordon-betty-moore-foundation/&#34; target=&#34;_blank&#34;&gt;The Gordon and Betty Moore Foundation&lt;/a&gt; during year 2017 - 2021, with aime to investigate the eukaryotic microbiome associated to pacific oysters to understand the causis of high mortality for oyster hatchy in Vancouver area. The CRISPR work lead to two R packages, and two articles publications. Kevin also expend this new method for other organisms by teaching people how to design guiding RNA and he also build a gRNA database for each organism of SILVA database and create a sgRNA database for researchers who want to apply to their own organisms for various purposes.&lt;/p&gt;
-
-&lt;p&gt;Here, let&amp;rsquo;s search, make sgRNA for CRISPR method:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Search sgRNA for your the host species you want to target (website)&lt;/li&gt;
-&lt;li&gt;If you have a 18S rRNA sequence of host, search sgRNA to cut (R package)&lt;/li&gt;
-&lt;li&gt;Search sgRNA for your the host species you want to target (R package)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;This CRISPR work is part of &amp;ldquo;The shellfish gene&amp;rdquo; project funded by &lt;a href=&#34;https://www.foundationguide.org/foundations-trust/gordon-betty-moore-foundation/&#34; target=&#34;_blank&#34;&gt;The Gordon and Betty Moore Foundation&lt;/a&gt; during year 2017 - 2021, with aime to investigate the eukaryotic microbiome associated to pacific oysters to understand the microbial causis of high mortality of osyter spates in hatchy in BC. The CRISPR work lead to one R packages, a gRNA-target-site database, and two articles publications.&lt;/p&gt;
 </description>
     </item>
     
@@ -643,6 +619,16 @@ git submodule update --init --recursive
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Structure and diversity of ssDNA Microviridae viruses in two peri-alpine lakes (Annecy and Bourget, France)</title>
+      <link>/publication/ssdna_rim_2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/ssdna_rim_2015/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
