@@ -28,9 +28,10 @@ date_format = "January 2006"
   description = """
   Having more fun for viruses and microorganisms in:
   
-  * Marine science
-  * Environmental virology and microbiology
-  * Microbiomes
+  * Environmental Virology
+  * Environmental Microbiology
+  * Microbiome
+  * Marine Science
   * Data mining
   """
 
@@ -41,7 +42,7 @@ date_format = "January 2006"
   location = "Vancouver, Canada"
   date_start = "2014-02-17"
   date_end = "2019-01-31"
-  description = """Delicating in research expedition in Environmental virology and microbiology (PI: Dr. Curtis Suttle)"""
+  description = """Delicating in research expedition in Environmental Virology and Microbiology (PI: Dr. Curtis Suttle)"""
 
 [[experience]]
   title = "Student research assistant"
