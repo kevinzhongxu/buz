@@ -42,7 +42,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Environmental virology and microbiology"
+  course = "PhD in Environmental Virology"
   institution = "Université Grenoble Alpes, France"
   year = 2014
 
@@ -52,7 +52,7 @@ user_groups = ["Researchers", "Visitors"]
   year = 2010
 
 [[education.courses]]
-  course = "BSc in Food science and engineering"
+  course = "BSc in Food Science and Engineering"
   institution = "Jiangxi Agricultural University, China"
   year = 2003
 
