@@ -29,7 +29,7 @@ telegram = ""
 # List (academic) interests or hobbies
 interests = [
   "Virus diversity",
-  "Virus's roles in aquatic ecosystems",
+  "Viral roles in aquatic ecosystems",
   "Virus-host interaction",
   "Host-associated microbiomes",
   "R fun",
@@ -105,7 +105,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Hello, I'm Kevin Xu ZHONG (钟旭), currently a research associate working in [The Suttle Lab](http://www.ocgy.ubc.ca/~suttle/) at The University of British Columbia. I love studying viruses of all kinds (dsDNA, RNA, ssDNA viruses) and from different environments (lake, ocean, deepsea, sediment, etc.) and hosts (microbes, zooplankton, sea-creatures, etc.). I specialize in molecular biology and bioinformatics for omics analysis. I love to develope methods for moving forward on our understanding about viruses and microbes, and their roles in following fields: 
+Hello, I'm Kevin Xu ZHONG (钟旭), currently a research associate working in [The Suttle Lab](https://suttle.sites.olt.ubc.ca/) at The University of British Columbia. I love studying viruses of all kinds (dsDNA, RNA, ssDNA viruses) and from different environments (lake, ocean, deepsea, sediment, etc.) and hosts (microbes, zooplankton, sea-creatures, etc.). I specialize in molecular biology and bioinformatics for omics analysis. I love to develope methods for moving forward on our understanding about viruses and microbes, and their roles in following fields: 
 
   * Environmental virology
   
