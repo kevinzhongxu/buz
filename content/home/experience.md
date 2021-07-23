@@ -36,7 +36,7 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Postdoctoral research fellow"
+  title = "Postdoctoral Research Fellow"
   company = "University of British Columbia"
   company_url = "https://www.ubc.ca/"
   location = "Vancouver, Canada"
@@ -45,7 +45,7 @@ date_format = "January 2006"
   description = """Delicating in research expedition in Environmental Virology and Microbiology (PI: Dr. Curtis Suttle)"""
 
 [[experience]]
-  title = "Student research assistant"
+  title = "Graduate Student Research Assistant"
   company = "INRA UMR CARRTEL 42 - French National Institute for Agricultural Research"
   company_url = "http://institut.inra.fr/en"
   location = "Thonon-les-bains, France"
@@ -54,7 +54,7 @@ date_format = "January 2006"
   description = """Thesis: Freshwater dsDNA viral diversity: A special emphasis on viruses infecting phytoplankton (cyanophages and phycodnaviruses) and T4-like myophages in peri-alpine lakes (PI: Dr. Stéphan Jacquet)"""
   
 [[experience]]
-  title = "Student research assistant"
+  title = "Graduate Student Research Assistant"
   company = "CNRS UMR 5005 - Ampere Laboratory of Ecole Centrale de Lyon, Environmental Microbial Genomic Group"
   company_url = "http://www.genomenviron.org/Home.html"
   location = "Lyon, France"
@@ -63,7 +63,7 @@ date_format = "January 2006"
   description = """Thesis: Metal and antibiotic resistome in mining soils (PI: Dr. Elizabeth Navarro & Dr. Marina Henry)"""
   
 [[experience]]
-  title = "Student research assistant"
+  title = "Graduate Student Research Assistant"
   company = "CNRS-INSA-UCBL UMR 5240 - Laboratory of Microbiology, Adaptation and Pathogenesis"
   company_url = "http://map.univ-lyon1.fr/?lang=en"
   location = "Lyon, France"
@@ -72,7 +72,7 @@ date_format = "January 2006"
   description = """Thesis: Genetic study of nickel and cobalt resistant genes (PI: Dr. Marie-A. Mandrand)"""
   
 [[experience]]
-  title = "Merchandising"
+  title = "Merchandiser / Senior Merchandiser"
   company = "Luenthai Holdings Ltd. (HK)"
   company_url = "http://www2.luenthai.com/"
   location = "Canton, China"
@@ -85,4 +85,20 @@ date_format = "January 2006"
   * Manage orders and suppliers
   * Manage sampling and bulk-production to ensure quality and delivery
   """
+  
+[[experience]]
+  title = "Merchandiser"
+  company = "Guangzhou Lydia Fashion Ltd. (South Korea)"
+  company_url = ""
+  location = "Canton, China"
+  date_start = "2003-08-01"
+  date_end = "2004-08-31"
+  description = """
+  Responsibilities include:
+  
+  * English/Mandarin Interpreter 
+  * Quality inspection for wedding dress and knitting top for USA and Latin America market sale
+
+  """
+  
 +++
