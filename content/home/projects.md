@@ -45,8 +45,8 @@ filter_default = 0
   tag = "aquatic viruses"
   
 [[filter]]
-  name = "CRISPR related"
-  tag = "CRISPR"
+  name = "CRISPR-cas related"
+  tag = "CCSAS"
 
 [[filter]]
   name = "Host-associated microbiomes"
